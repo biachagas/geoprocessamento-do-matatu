@@ -31,7 +31,7 @@ Mapa de localização e delimitação do Bairro do Matatu em relação aos bairr
 - **Fontes de dados:** IBGE (Censo, malha de setores censitários), SEI-BA, Prefeitura de Salvador (SUCOM/SEMOB), OpenStreetMap, etc.
 - **Período de referência dos dados:** Diverso e Censo 2022.
 
-Detalhes completos da metodologia em [`docs/metodologia.md`](docs/metodologia.md).
+*A documentação detalhada da metodologia está em elaboração e será publicada em breve nesta seção.*
 
 ## 📂 Estrutura do repositório
 
