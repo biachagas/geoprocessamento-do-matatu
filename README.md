@@ -1,4 +1,5 @@
 # Geoprocessamento e Socioeconomia do Bairro do Matatu — Salvador/BA
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20739055.svg)](https://doi.org/10.5281/zenodo.20739055)
 
 Repositório com mapas temáticos produzidos a partir de estudo de geoprocessamento e análise socioeconômica do bairro **Matatu**, em Salvador, Bahia. O material foi confeccionado por **Bianca Glória França de Oliveira Chagas** e está disponível aqui para consulta pública e documentação científica.
 
