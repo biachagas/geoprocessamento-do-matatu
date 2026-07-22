@@ -75,8 +75,6 @@ Se utilizar este material em trabalhos acadêmicos, técnicos ou outros, por fav
 
 **Bianca Glória França de Oliveira Chagas**
 
-Lattes: http://lattes.cnpq.br/6882612035536485
-
-ORCID: https://orcid.org/0009-0009-4859-8666
+Lattes: http://lattes.cnpq.br/6882612035536485    |     ORCID: https://orcid.org/0009-0009-4859-8666
 
 Contato: biancachagas.ba@gmail.com
