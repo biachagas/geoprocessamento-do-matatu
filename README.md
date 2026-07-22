@@ -23,6 +23,14 @@ Mapa de localização e delimitação do Bairro do Matatu em relação aos bairr
 
 📎 [Ver mapa em alta resolução](mapas/finais/mapa_delimitacao_bairro.png)
 
+### Sistema Viário do Bairro do Matatu
+
+![Sistema Viário do Bairro do Matatu](mapas/preview/mapa_sistema_viario_preview.png)
+
+Mapa de hierarquia viária do Bairro do Matatu, classificando as vias em arteriais, coletoras e locais, com base em dados da Prefeitura de Salvador (2016) e Google Maps (2026).
+
+📎 [Ver mapa em alta resolução](mapas/finais/mapa_sistema_viario.png)
+
 *(Mais mapas serão adicionados aqui conforme forem produzidos.)*
 
 ## 🛠️ Metodologia e dados
